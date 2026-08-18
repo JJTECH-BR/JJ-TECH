@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f7f1"/>
+      <stop offset="100%" stop-color="#e6e4d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="720" rx="40" fill="#ffffff" stroke="#d8d7cf" stroke-width="4"/>
+  <rect x="76" y="76" width="1048" height="140" rx="30" fill="#0b4f2d"/>
+  <text x="110" y="135" fill="#ffffff" font-size="58" font-family="Inter, sans-serif" font-weight="700">Cardápio do Dia</text>
+  <text x="110" y="180" fill="#dce5da" font-size="24" font-family="Inter, sans-serif">Comida de qualidade sabor que impressiona.</text>
+  <rect x="110" y="210" width="220" height="64" rx="32" fill="#f5b23c"/>
+  <text x="140" y="252" fill="#0b3a1d" font-size="24" font-family="Inter, sans-serif" font-weight="700">Ver Pratos →</text>
+  <rect x="110" y="300" width="320" height="190" rx="30" fill="#fff8ed" stroke="#dde3d0" stroke-width="2"/>
+  <text x="140" y="350" fill="#0f3f1f" font-size="28" font-family="Inter, sans-serif" font-weight="700">Marmita P</text>
+  <text x="140" y="385" fill="#5a6a51" font-size="18" font-family="Inter, sans-serif">Marmita P (400g) com 2 proteínas</text>
+  <rect x="470" y="300" width="320" height="190" rx="30" fill="#fff8ed" stroke="#dde3d0" stroke-width="2"/>
+  <text x="500" y="350" fill="#0f3f1f" font-size="28" font-family="Inter, sans-serif" font-weight="700">Marmita M</text>
+  <text x="500" y="385" fill="#5a6a51" font-size="18" font-family="Inter, sans-serif">Marmita M (550g) com 2 proteínas</text>
+  <rect x="830" y="300" width="320" height="190" rx="30" fill="#fff8ed" stroke="#dde3d0" stroke-width="2"/>
+  <text x="860" y="350" fill="#0f3f1f" font-size="28" font-family="Inter, sans-serif" font-weight="700">Marmita G</text>
+  <text x="860" y="385" fill="#5a6a51" font-size="18" font-family="Inter, sans-serif">Marmita G (700g) com 2 proteínas</text>
+  <rect x="76" y="520" width="1048" height="180" rx="30" fill="#f5f3ec" stroke="#dde3d0" stroke-width="2"/>
+  <text x="110" y="580" fill="#0f3f1f" font-size="28" font-family="Inter, sans-serif" font-weight="700">Marmitas Tradicionais</text>
+  <text x="110" y="615" fill="#5a6a51" font-size="18" font-family="Inter, sans-serif">Monte sua marmita do seu jeito, com acompanhamentos e proteínas.</text>
+</svg>
